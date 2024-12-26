@@ -38,6 +38,7 @@ img {
 }
 
 main {
+  max-width: 384px;
   background-color: var(--erie-black);
   margin: auto;
   display: flex;
@@ -49,7 +50,7 @@ main {
 
 .avatar-container {
   max-width: 24rem;
-  padding: 0 8.75rem 1.875rem;
+  padding: 0 6.75rem 1.875rem;
 }
 
 .details {
@@ -74,7 +75,7 @@ p > q {
 }
 
 li {
-  width: 24rem;
+  width: 19.25rem;
   list-style: none;
   margin-top: 1rem;
 }
